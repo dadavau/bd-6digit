@@ -95,7 +95,7 @@ id = []
 def menu():
     os.system('clear')
     print ('logo')
-    print ''
+    print ('')
     print '\033[0;93mAUTHOR   : Raisul islam'
     print '\033[0;94mFACEBOOK : https://www.facebook.com/abal.not.allow.dada.is.back.R'
     print '\033[0;96mGITHUB   : dadavau'
